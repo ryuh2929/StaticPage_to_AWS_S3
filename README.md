@@ -1,6 +1,8 @@
+AWS academy라서 토큰 4시간마다 갱신 해줘야돼고 S3 버킷도 삭제해서 커밋 에러남
+
 # StaticPage to AWS S3
 
-  
+
 
 ### 1단계: AWS S3 버킷 설정  
 
